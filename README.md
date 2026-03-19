@@ -66,6 +66,9 @@ hackathon_3/
 ├── requirements.txt
 └── README.md
 
+<img width="1536" height="1024" alt="repo_fc" src="https://github.com/user-attachments/assets/bc6a3ab5-ae9d-47d0-b638-cac078e850b6" />
+
+
 ---
 
 ## 🧠 Machine Learning Approach
@@ -85,6 +88,11 @@ hackathon_3/
 ## 🔄 Pipeline
 Data → Preprocessing → Model Training → Prediction → Dashboard
 
+
+<img width="1024" height="1536" alt="flwchrt" src="https://github.com/user-attachments/assets/dc148356-2b2f-47d9-b7ed-972c96434736" />
+
+
+
 ---
 
 
@@ -101,6 +109,15 @@ The dashboard allows users to:
 - Get improvement suggestions
 - View data graphs
 
+<img width="1841" height="822" alt="Screenshot 2026-03-19 221848" src="https://github.com/user-attachments/assets/fbf6d277-bab8-4cd0-9df6-e04e8c4db1a1" />
+
+<img width="1748" height="637" alt="Screenshot 2026-03-19 221040" src="https://github.com/user-attachments/assets/791e3d15-a1b1-44fa-a9dc-6b7c85d8082b" />
+
+<img width="1753" height="602" alt="Screenshot 2026-03-19 221021" src="https://github.com/user-attachments/assets/9610671c-57f9-45d8-bb76-7a5ceed3f5e6" />
+
+
+
+
 ---
 
 ## 🎯 Use Case
@@ -114,7 +131,6 @@ This system can be used in:
 ## 👨‍💻 Author
 Prashant Kumar  
 Admission No: 2024SEPVUGP0005  
-Course: B.Tech AI  
 
 ---
 
