@@ -1,5 +1,11 @@
 # 🎓 Student Academic Risk Prediction System
 
+## 📸 Dashboard Preview
+<img width="1919" height="935" alt="Screenshot 2026-03-19 122328" src="https://github.com/user-attachments/assets/8fa60036-fae4-4385-9079-ab36d9362c88" />
+
+
+---
+
 ## 📌 Project Overview
 This project predicts whether a student is academically at risk using machine learning.
 
@@ -71,6 +77,11 @@ hackathon_3/
 - Output:
   - Risk prediction (Safe / At Risk)
   - Probability score
+
+---
+
+## 🧠 How it works
+The system takes student input, processes it using a trained ML model, and predicts risk along with recommendations.
 
 ---
 
