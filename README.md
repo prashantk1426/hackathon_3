@@ -80,6 +80,12 @@ hackathon_3/
 
 ---
 
+## 🔄 Pipeline
+Data → Preprocessing → Model Training → Prediction → Dashboard
+
+---
+
+
 ## 🧠 How it works
 The system takes student input, processes it using a trained ML model, and predicts risk along with recommendations.
 
@@ -112,3 +118,11 @@ Course: B.Tech AI
 
 ## ⭐ Note
 This project demonstrates a basic end-to-end Machine Learning pipeline (MLOps), including data processing, model training, and deployment.
+
+---
+
+## 📊 Future Improvements
+- Add more features
+- Improve model accuracy
+- improve UI
+- Deploy online
