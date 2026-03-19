@@ -3,6 +3,8 @@
 ## 📸 Dashboard Preview
 <img width="1919" height="935" alt="Screenshot 2026-03-19 122328" src="https://github.com/user-attachments/assets/8fa60036-fae4-4385-9079-ab36d9362c88" />
 
+This is the interactive dashboard used for predicting student academic risk in real-time.
+
 
 ---
 
